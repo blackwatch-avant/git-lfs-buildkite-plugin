@@ -1,5 +1,5 @@
 name: git-lfs-initialize-buildkite
-description: Runs the second phase of git lfs install so it's working for the clone
-author: https://github.com/lparry
+description: Installs git lfs and runs `git lfs install` so it's working for the clone
+author: https://github.com/blackwatch-avant
 requirements:
   - git-lfs
